@@ -7,6 +7,5 @@
   "azureFunctions.preDeployTask": "npm prune",
   "staticWebApps.appSubpath": "react-app",
   "staticWebApps.apiSubpath": "api",
-  "staticWebApps.appArtifactSubpath": "build",
   "staticWebApps.outputSubpath": "build"
 }
